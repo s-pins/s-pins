@@ -33,7 +33,8 @@
 ### 🤝 ALX Peer Project – Professional Foundations  
 *Status: Completed*  
 Collaborated with peers on a comprehensive project focused on **whatsapp chatbot prototyping**, **technical writing**, and **wireframes presentations**. Delivered milestone submissions and a team presentation demonstrating effective teamwork and communication.  
-→ 📺 [View project notes & presentation](https://youtu.be/rCMAMSyEiFg)
+→ 📺 [View project presentation](https://youtu.be/rCMAMSyEiFg)
+→ 📺 [View project slide deck](https://www.canva.com/design/DAGrtUe0Z5I/-20h9uvPnXpTea-27bbFsA/view?utm_content=DAGrtUe0Z5I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd0890a7181)
 
 ### 📚 University Chatbot  
 *Status: Prototype*  
