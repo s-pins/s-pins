@@ -30,6 +30,11 @@
 
 > 🚧 *More coming soon…*
 
+### 🤝 ALX Peer Project – Professional Foundations  
+*Status: Completed*  
+Collaborated with peers on a comprehensive project focused on **whatsapp chatbot prototyping**, **technical writing**, and **wireframes presentations**. Delivered milestone submissions and a team presentation demonstrating effective teamwork and communication.  
+→ 📺 [View project notes & presentation](https://youtube.com/your-alx-project-link)
+
 ### 📚 University Chatbot  
 *Status: Prototype*  
 A smart chatbot built using LLaMA and Python to support student interaction on LMS platforms & whatsapp.  
